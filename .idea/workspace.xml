@@ -34,6 +34,16 @@
       <change afterPath="$PROJECT_DIR$/../../cryptomillion/landingpage/src/locales/fr.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../cryptomillion/landingpage/src/locales/index.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../cryptomillion/landingpage/src/locales/it.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/navigators/MainNavigator.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/navigators/PrivateNavigator.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/navigators/PublicNavigator.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/Auth.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/Home.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/Login.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/NotFound.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/Profile.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/screens/Signup.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/package.json" afterDir="false" />
@@ -209,6 +219,10 @@
       <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/users/users.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/users/users.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/tsconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,7 +233,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1zUP9yUOv4TdZY2iOQNyMT5Pxl9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -234,7 +248,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/navigations" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/navigators" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -253,6 +267,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/navigators" />
+      <recent name="$PROJECT_DIR$/src/screens" />
       <recent name="$PROJECT_DIR$/src/navigations" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -280,7 +296,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634199559850</updated>
-      <workItem from="1634199562456" duration="5657000" />
+      <workItem from="1634199562456" duration="11122000" />
     </task>
     <servers />
   </component>
