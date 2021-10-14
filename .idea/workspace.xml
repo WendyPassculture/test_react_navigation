@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a8ff4c1-cad4-4d76-9cf9-67d4fb24a4aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EIT/eit-backend-backup/.idea/eit-backend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EIT/eit-website/.idea/EIT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EIT/eit-website/vendor/wizi/wizi-yousign-client/.idea/WiziYousignClient.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EIT/functions/.idea/functions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Xrpawn/XrpawnBlockchain.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cryptomillion/MYCMChain/MYCMChain/MainTabs.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cryptomillion/MYCMChain/MYCMChain/New Group/BlurView.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cryptomillion/MYCMChain/MYCMChain/New Group/ContentViewModel.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cryptomillion/MYCMChain/MYCMChain/New Group/MainTabItem.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cryptomillion/MYCMChain/MYCMChain/New Group/MainTabs.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cryptomillion/MYCMChain/MYCMChain/Storyboard.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cryptomillion/landingpage/.idea/landingpage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cryptomillion/landingpage/public/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cryptomillion/landingpage/public/android-chrome-384x384.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cryptomillion/landingpage/public/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cryptomillion/landingpage/public/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cryptomillion/landingpage/public/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cryptomillion/landingpage/public/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cryptomillion/landingpage/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cryptomillion/landingpage/public/mstile-150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cryptomillion/landingpage/public/safari-pinned-tab.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cryptomillion/landingpage/src/AppContent.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cryptomillion/landingpage/src/AppFooter.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cryptomillion/landingpage/src/assets/mycryptomillion-logo-inline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cryptomillion/landingpage/src/locales/de.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cryptomillion/landingpage/src/locales/en.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cryptomillion/landingpage/src/locales/es.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cryptomillion/landingpage/src/locales/fr.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cryptomillion/landingpage/src/locales/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cryptomillion/landingpage/src/locales/it.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/public/android-chrome-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/public/android-chrome-192x192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/public/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/public/apple-touch-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/public/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/public/favicon-16x16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/public/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/public/favicon-32x32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/public/mstile-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/public/mstile-150x150.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/AppRenderer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/AppRenderer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/_02_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/_02_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/_03_core.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/_03_core.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/core/apps.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/core/apps.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/core/buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/core/buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/core/cards.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/core/cards.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/core/loading.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/core/loading.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/core/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/core/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/core/modal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/core/modal.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/themes/gogo.light.bluenavy.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/themes/gogo.light.bluenavy.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/themes/gogo.light.blueolympic.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/themes/gogo.light.blueolympic.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/themes/gogo.light.blueyale.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/themes/gogo.light.blueyale.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/themes/gogo.light.greenlime.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/themes/gogo.light.greenlime.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/themes/gogo.light.greenmoss.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/themes/gogo.light.greenmoss.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/themes/gogo.light.greysteel.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/themes/gogo.light.greysteel.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/themes/gogo.light.orangecarrot.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/themes/gogo.light.orangecarrot.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/themes/gogo.light.purplemonster.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/css/sass/themes/gogo.light.purplemonster.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/logos/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/assets/logos/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/CalendarToolbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/CalendarToolbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/DatatablePagination.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/DatatablePagination.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/applications/SurveyDetailCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/applications/SurveyDetailCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/applications/SurveyQuota.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/applications/SurveyQuota.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/cards/IconCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/cards/IconCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/cards/Post.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/cards/Post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/cards/PriceCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/cards/PriceCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/cards/ThumbnailImage.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/cards/ThumbnailImage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/carousel/GlideComponent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/carousel/GlideComponent.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/carousel/GlideComponentThumbs.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/carousel/GlideComponentThumbs.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/charts/Area.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/charts/Area.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/charts/Bar.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/charts/Bar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/charts/Doughnut.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/charts/Doughnut.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/charts/Line.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/charts/Line.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/charts/Pie.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/charts/Pie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/charts/PolarArea.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/charts/PolarArea.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/charts/Radar.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/charts/Radar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/charts/Scatter.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/charts/Scatter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/charts/SmallLine.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/charts/SmallLine.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/charts/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/charts/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/common/ApplicationMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/common/ApplicationMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/common/ColorSwitcher.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/common/ColorSwitcher.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/common/ReactAutoSuggest.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/common/ReactAutoSuggest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/common/SliderTooltips.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/common/SliderTooltips.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/common/VideoPlayer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/common/VideoPlayer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/common/react-notifications/Notification.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/common/react-notifications/Notification.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/common/react-notifications/NotificationManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/common/react-notifications/NotificationManager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/common/react-notifications/Notifications.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/common/react-notifications/Notifications.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/wizard/BottomNavigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/wizard/BottomNavigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/wizard/TopNavigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/components/wizard/TopNavigation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/constants/defaultValues.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/constants/defaultValues.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/constants/menu.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/constants/menu.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/applications/ChatApplicationMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/applications/ChatApplicationMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/applications/QuestionBuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/applications/QuestionBuilder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/applications/SurveyApplicationMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/applications/SurveyApplicationMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/applications/SurveyQuotas.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/applications/SurveyQuotas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/applications/TodoApplicationMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/applications/TodoApplicationMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/dashboards/AdvancedSearch.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/dashboards/AdvancedSearch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/dashboards/BestSellers.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/dashboards/BestSellers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/dashboards/Cakes.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/dashboards/Cakes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/dashboards/IconCardsCarousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/dashboards/IconCardsCarousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/dashboards/Logs.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/dashboards/Logs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/dashboards/NewComments.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/dashboards/NewComments.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/dashboards/ProfileStatuses.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/dashboards/ProfileStatuses.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/dashboards/RecentOrders.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/dashboards/RecentOrders.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/dashboards/Tickets.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/dashboards/Tickets.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/form-validations/FormikBasicFormLevel.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/form-validations/FormikBasicFormLevel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/form-validations/FormikCustomComponents.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/form-validations/FormikCustomComponents.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/form-validations/FormikCustomWithTopLabels.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/form-validations/FormikCustomWithTopLabels.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/form-validations/FormikFields.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/form-validations/FormikFields.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/form-validations/FormikValidationSchema.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/form-validations/FormikValidationSchema.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/forms/DatePickerExamples.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/forms/DatePickerExamples.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/forms/DropzoneExample.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/forms/DropzoneExample.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/forms/RatingExamples.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/forms/RatingExamples.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/forms/ReactSelectExample.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/forms/ReactSelectExample.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/forms/SliderExamples.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/forms/SliderExamples.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/forms/SwitchExamples.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/forms/SwitchExamples.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/navs/Breadcrumb.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/navs/Breadcrumb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/navs/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/navs/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/navs/Sidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/navs/Sidebar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/navs/Topnav.Notifications.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/navs/Topnav.Notifications.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/navs/Topnav.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/navs/Topnav.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/pages/ContextMenuContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/pages/ContextMenuContainer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/pages/DataListView.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/pages/DataListView.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/pages/GalleryDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/pages/GalleryDetail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/pages/GalleryProfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/pages/GalleryProfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/pages/ListPageHeading.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/pages/ListPageHeading.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/pages/ListPageListing.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/pages/ListPageListing.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/pages/Orders.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/pages/Orders.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/pages/Pagination.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/pages/Pagination.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/ui/IconCards.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/ui/IconCards.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/ui/NotificationExamples.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/ui/NotificationExamples.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/ui/ReactTableCards.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/ui/ReactTableCards.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/ui/StateButtonExample.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/ui/StateButtonExample.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/wizard/Basic.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/wizard/Basic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/wizard/LastStepEnd.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/wizard/LastStepEnd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/wizard/Layouts.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/wizard/Layouts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/wizard/TopNavDisabled.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/wizard/TopNavDisabled.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/wizard/Validation.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/containers/wizard/Validation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/data/charts.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/data/charts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/data/notifications.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/data/notifications.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/data/profileStatuses.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/data/profileStatuses.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/helpers/Api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/helpers/Api.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/helpers/ThemeColors.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/helpers/ThemeColors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/helpers/Utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/helpers/Utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/helpers/authHelper.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/helpers/authHelper.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/hooks/use-action.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/hooks/use-action.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/hooks/use-actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/hooks/use-actions.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/hooks/use-mousetrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/hooks/use-mousetrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/lang/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/lang/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/lang/locales/fr_FR.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/lang/locales/fr_FR.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/layout/AppLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/layout/AppLayout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/models/PaginationResult.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/models/PaginationResult.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/models/Team.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/models/Team.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/models/User.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/models/User.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/actions.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/auth/actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/auth/actions.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/auth/reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/auth/reducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/auth/saga.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/auth/saga.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/auth/selectors.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/auth/selectors.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/menu/actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/menu/actions.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/menu/reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/menu/reducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/menu/selectors.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/menu/selectors.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/reducers.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/reducers.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/sagas.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/sagas.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/settings/actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/settings/actions.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/settings/reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/settings/reducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/settings/selectors.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/settings/selectors.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/store.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/users/actionTypes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/users/actionTypes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/users/actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/users/actions.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/users/reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/users/reducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/users/saga.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/users/saga.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/users/selectors.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/redux/users/selectors.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/reportWebVitals.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/reportWebVitals.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/app/blank-page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/app/blank-page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/app/gogo/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/app/gogo/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/app/gogo/start.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/app/gogo/start.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/app/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/app/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/app/second-menu/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/app/second-menu/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/billing/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/billing/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/calls/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/calls/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/clients/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/clients/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/customers/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/customers/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/dashboard/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/dashboard/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/error.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/error.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/home.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/mails/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/mails/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/settings/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/settings/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/user/forgot-password.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/user/forgot-password.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/user/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/user/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/user/login.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/user/login.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/user/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/user/register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/user/reset-password.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/user/reset-password.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/users/components/AddNewTeamModal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/users/components/AddNewTeamModal.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/users/components/AddNewUserModal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/users/components/AddNewUserModal.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/users/components/DeleteTeamConfirmModal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/users/components/DeleteTeamConfirmModal.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/users/components/DeleteUserConfirmModal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/users/components/DeleteUserConfirmModal.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/users/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/users/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/users/teams.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/users/teams.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/users/users.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/src/views/users/users.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../EIT/eit-backend/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../EIT/eit-backend/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1zUP9yUOv4TdZY2iOQNyMT5Pxl9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/navigations" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/navigations" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a8ff4c1-cad4-4d76-9cf9-67d4fb24a4aa" name="Default Changelist" comment="" />
+      <created>1634199559850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634199559850</updated>
+      <workItem from="1634199562456" duration="5657000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
